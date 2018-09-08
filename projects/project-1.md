@@ -1,44 +1,29 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
-title: Micromouse
-permalink: projects/micromouse
+image: images/shirokiya.jpg
+title: Work Experience
+permalink: projects/Work Experience
 # All dates must be YYYY-MM-DD format!
-date: 2015-07-01
+date: 2018-07-25
 labels:
-  - Robotics
-  - Arduino
-  - C++
-summary: My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition.
+  - Shirokiya
+  
+summary: My work experience at places so far.
 ---
 
-<div class="ui small rounded images">
-  <img class="ui image" src="../images/micromouse-robot.png">
-  <img class="ui image" src="../images/micromouse-robot-2.jpg">
-  <img class="ui image" src="../images/micromouse.jpg">
-  <img class="ui image" src="../images/micromouse-circuit.png">
-</div>
+//<div class="ui small rounded images">
+  //<img class="ui image" src="../images/micromouse-robot.png">
+  //<img class="ui image" src="../images/micromouse-robot-2.jpg">
+  //<img class="ui image" src="../images/micromouse.jpg">
+  //<img class="ui image" src="../images/micromouse-circuit.png">
+//</div>
 
-Micromouse is an event where small robot “mice” solve a 16 x 16 maze.  Events are held worldwide.  The maze is made up of a 16 by 16 gird of cells, each 180 mm square with walls 50 mm high.  The mice are completely autonomous robots that must find their way from a predetermined starting position to the central area of the maze unaided.  The mouse will need to keep track of where it is, discover walls as it explores, map out the maze and detect when it has reached the center.  having reached the center, the mouse will typically perform additional searches of the maze until it has found the most optimal route from the start to the center.  Once the most optimal route has been determined, the mouse will run that route in the shortest possible time.
+I have never had a job until June 25th, 2018. I applied to at least 9 different locations including Shirokiya. I just never knew it would be so hard to find a job. I got turned down by some places or they never even responded to my application. When my boss Sandy called, I did everything the same, we set up an interview with her and Blake (another boss) and I hoped for the best. I was wearing an aloha t shirt with dress pants so I don't think I was prepared that well. When the interview started it was not like other interviews. Instead of asking questions like, "how will you improve this company?" they just asked about my resume and availability. Which is good because I didn't do so well talking. But I got the job and I was extremely grateful for it.
 
-For this project, I was the lead programmer who was responsible for programming the various capabilities of the mouse.  I started by programming the basics, such as sensor polling and motor actuation using interrupts.  From there, I then programmed the basic PD controls for the motors of the mouse.  The PD control the drive so that the mouse would stay centered while traversing the maze and keep the mouse driving straight.  I also programmed basic algorithms used to solve the maze such as a right wall hugger and a left wall hugger algorithm.  From there I worked on a flood-fill algorithm to help the mouse track where it is in the maze, and to map the route it takes.  We finished with the fastest mouse who finished the maze within our college.
+At Shirokiya, I work as a dishwasher. So I don't work for any of the vendors but I help the bars by cleaning their glassware. Usually in a days work we go out collect glasses or wait for the Janiking (Janitors) to bring it in for us. Then we clean and give it to the bars. My first days were brutal because I wasn't use to standing for 6+ hours. The pain was real but I got use to it soon. My co-workers are really good, no problems, they help a lot, and they all seem like really good people. It is a very simple job but I find it kind of fun. Sure, it is a little physically demanding but I love doing simple tasks that help people out. I actually prefer working to relieve the stress I deal with in life. Overall, my first working experience is better than I had expected and I hope to continuce working here for at least 2 years.
 
-Here is some code that illustrates how we read values from the line sensors:
-
-```js
-byte ADCRead(byte ch)
-{
-    word value;
-    ADC1SC1 = ch;
-    while (ADC1SC1_COCO != 1)
-    {   // wait until ADC conversion is completed   
-    }
-    return ADC1RL;  // lower 8-bit value out of 10-bit data from the ADC
-}
-```
-
-You can learn more at the [UH Micromouse Website](http://www-ee.eng.hawaii.edu/~mmouse/about.html).
+Here is where you can learn more about Shirokiya(https://www.shirokiya.com/).
 
 
 

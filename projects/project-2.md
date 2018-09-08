@@ -20,4 +20,4 @@ Halo has been an amazing game experience and was actually one of my first. I was
 
 What I love to on xbox is collect achievements. Halo achievements are even better to get because of the fun and/or challenge. Ever since the Master Chief Collection came out, I started collecting more achievements. Even today, I still try to collect them. The most difficult achievements would probably be doing Mythic or LASO (Legendary all skulls on) mode and completing campaigns in under 3 hours on legendary (hard difficulty in the game).
  
-For more information on anything halo, check out Halo Waypoint(https://www.halowaypoint.com/en-us).
+For more information on anything halo, check out [Halo Waypoint](https://www.halowaypoint.com/en-us).

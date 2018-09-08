@@ -1,25 +1,23 @@
 ---
 layout: project
 type: project
-image: images/halo.jng
-title: Vacay
-permalink: projects/vacay
+image: images/halo.jpg
+title: Halo Achievements
+permalink: projects/Halo Achievements
 # All dates must be YYYY-MM-DD format!
-date: 2015-12-15
+date: 2014-11-11
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+  - Halo Master Chief Collection
+  - Halo Reach
+  - Halo Wars
+  - Halo 5
+summary: My progress in achieving halo achievements or playing for fun
 ---
 
-<img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
+<img class="allhalo.jpg">
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
+Halo has been an amazing game experience and was actually one of my first. I was exposed to console games unless I went to my cousin's house and back then I was afraid to play games like this. But now it is still one of my favorite franchises and I hope it will continue to live on.
 
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
-
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
+What I love to on xbox is collect achievements. Halo achievements are even better to get because of the fun and/or challenge. Ever since the Master Chief Collection came out, I started collecting more achievements. Even today, I still try to collect them. The most difficult achievements would probably be doing Mythic or LASO (Legendary all skulls on) mode and completing campaigns in under 3 hours on legendary (hard difficulty in the game).
  
-Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
+For more information on anything halo, check out Halo Waypoint(https://www.halowaypoint.com/en-us).

@@ -1,57 +1,50 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Christoper Lau",
     "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "picture": "https://christopherjnlau.github.io/images/image1-2.jpeg",
+    "email": "cl33@hawaii.edu",
+    "phone": "",
+    "website": "https://christopherjnlau.github.io",
+    "summary": "I am currently a student in the ICS program at UH Manoa and I am hoping to graduate in 2020. I really love playing video games and eating.",
     "location": {
       "address": "",
-      "postalCode": "96822",
-      "city": "Honolulu",
+      "postalCode": "96701",
+      "city": "Aiea",
       "countryCode": "USA",
       "region": "Hawaii"
     },
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "christopherjnlau",
+        "url": "http://github.com/christopherjnlau"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
+        "username": "Christopher Lau",
+        "url": "http://linkedin.com/in/christopher-lau-3b6798157/"
       },
       {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
+        "network": "Xbox",
+        "username": "StipulateLotus6"
       },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
-      }
+      
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
-      "keywords": [
-        "Arduino",
-        "TI MSP430"
-      ]
-    },
-    {
-      "name": "data mining",
+      "name": "watching youtube videos",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "playing video games",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "eating out",
       "keywords": [
       ]
     }

@@ -13,6 +13,5 @@ labels:
 summary: The Final Project that a team and I worked on for ICS 111
 ---
 
-<img class="ninjacat.png">
 
 We created a game where you play as a ninja cat that runs through a level to try to find its baby cat. We used object oriented programming, file reading, and user interface. The team consisted of Brian-Mario Olivarez, John Ampa, Christian Ramelb, and myself.

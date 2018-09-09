@@ -9,6 +9,7 @@ date: 2017
 labels:
   - Java
   - University Project
+  
 summary: The Final Project that a team and I worked on for ICS 111
 ---
 

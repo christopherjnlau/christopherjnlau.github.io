@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/ninjacat.png
-title: Cotton
+title: ICS 111 Final Project: Ninjacat
 permalink: projects/cotton
 # All dates must be YYYY-MM-DD format!
 date: 2017

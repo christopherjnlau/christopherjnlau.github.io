@@ -5,7 +5,7 @@ image: images/ninjacat.png
 title: ICS 111 Final Project: Ninjacat
 permalink: projects/Ninja Cat
 # All dates must be YYYY-MM-DD format!
-date: 2017
+date: 2017-05-5
 labels:
   - Java
   - University Project

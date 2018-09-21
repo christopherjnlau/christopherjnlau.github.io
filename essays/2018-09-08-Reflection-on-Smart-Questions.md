@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: How to Ask Smart Questions
+title: There is such a thing as a "dumb" Question!
 # All dates must be YYYY-MM-DD format!
 date: 2018-09-08
 labels:

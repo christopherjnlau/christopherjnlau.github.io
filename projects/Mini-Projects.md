@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSR0ddPa6a809MQPmds9xPqT2dyV-X0bLaXMQNM079UQp0_6D1q9Q
+image: images/Star Wars Logo.png
 title: Mini Projects
 permalink: projects/Mini Projects
 # All dates must be YYYY-MM-DD format!

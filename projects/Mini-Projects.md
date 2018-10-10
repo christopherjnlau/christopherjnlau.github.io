@@ -13,6 +13,6 @@ labels:
   - Semantic UI
 summary: Mini projects I made for my software engineering class
 ---
-<a href="luckybelly.html">Luckybelly</a>
+<a href="Code Projects/luckybelly.html">Luckybelly</a>
 
 [Browser History](browserhistory.html)

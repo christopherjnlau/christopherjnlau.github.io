@@ -15,4 +15,4 @@ summary: Mini projects I made for my software engineering class
 ---
 <a href="Code Projects/luckybelly.html">Luckybelly</a>
 
-[Browser History](Code Projects/browserhistory.html)
+[Browser History]("Code Projects/browserhistory.html")

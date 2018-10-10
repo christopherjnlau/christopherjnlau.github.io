@@ -13,6 +13,9 @@ labels:
   - Semantic UI
 summary: Mini projects I made for my software engineering class
 ---
-<a href="Code Projects/luckybelly.html">Luckybelly</a>
 
 <a href="Code Projects/browserhistory.html">Browser History</a>
+
+<a href="Code Projects/luckybelly.html">Lucky Belly</a>
+
+I did not make this, this creation belongs to [Phillip Johnson](http://philipmjohnson.org/): <a href="Code Projects/murphys.html">Murphy's</a>

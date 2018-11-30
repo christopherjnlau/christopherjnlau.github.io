@@ -3,15 +3,24 @@ layout: essay
 type: essay
 title: There is such a thing as a "dumb" Question!
 # All dates must be YYYY-MM-DD format!
-date: 2018-09-08
+date: 2018-11-29
 labels:
   - Software Engineering
   - Learning
-  - Smart Questions
+  - Technical Design
 ---
 
-In the book titled [How to Ask Questions the Smart Way](http://www.catb.org/esr/faqs/smart-questions.html), by Eric Raymond, the author does a great job of helping new software engineers learn the art of asking smart programming questions to get answers from programming websites in an efficient manner. The author stresses that before submitting a question for help on programming websites like Stack Overflow, the person submitting the question must first do as much homework as possible to find the answer on their own and then that they did the proper homework in their question and make it concise. If, in the author’s eyes, the person submitting the question proves they have not put in the proper effort to find the answer, the question posed to the programming community will be viewed as a “stupid” question.
+When I first hear of desgin patterns, I think of are flowers. A great example is a sunflower, all of its little buds are independent but are so uniform together. Another example is having a bunch of lines and making a uniform, good looking picture. Things like a drawn star or even a really great sketch of a person can be drawn with only lines and still look great. My point is a design pattern is somehting that uses a very similar style to create or edit. My passion is video games and I see a lot of design patterns in all sorts of games. If you compare multiple games made by one company, you can distinguish a simlarity between all of them in looks, sounds, and content. But when you compare their games to another company then you will get totally different design. My last example are movies. Everytime I watch a Michael Bay movie it has this form of lighting that I see in no other movie. While Disney 3D animation movies have a very similar style between all the movies like the movement of characters, style of songs, etc. I find many similarities in the style of Moana and Frozen.
 
-For example, a “stupid” question I noticed on Stack Overflow is “Why are there different bean management annotations”. In this case, the author would say this question can be first researched online to find the answer through websites like Google. In fact, in the programming community, they have a humorous acronym for this type of question, called “STFW” (Search The F***ing Web!). The smart way is to not ask this question because you should have already done your homework. The response to this question is very intelligent, as the person goes into extraordinary detail and adds additional interesting information as to why it is different.    
+Design patterns in coding is the same way as the examples above. The way it's formatted, why it's formatted, and the purpose of the code. I think my style is to just get the task done with little consideration on making it better. If you tell me to make a factorial function, I would make it almost the same everytime. While someone might use a totally different method and format their code differently also. A great example of my coding design is trying to group things up like: 
 
-I learned not to ask questions that could be answered simply by searching the web. I need to put a certain amount of effort in finding the answer to the question before I even ask it.Then if I am still confused or can’t find an answer I would ask and say what I’ve done to get to this point. I am also able to identify “smart” from “stupid” questions. Overall, the popular phrase “There’s no such thing as a dumb question”, returns false!
+```
+if (a > 0) {
+  int b;
+  a++;
+  b += function(a) + b;
+  return b;
+}
+```
+
+I like to add spaces after terms but leave the last space untouched. I also have all the code lines one after another within an if, function, etc. Above is an accurate showcase of my coding design pattern. However, I would not be able to make a flower in my code, ever.
